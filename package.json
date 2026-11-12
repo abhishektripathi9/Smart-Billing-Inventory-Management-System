@@ -1,0 +1,12 @@
+{
+  "name": "smart-billing-and-inventory-management-system",
+  "version": "1.0.0",
+  "description": "Smart Billing & Inventory Management System (PosSaaS) - React, Spring Boot, MySQL",
+  "private": true,
+  "scripts": {
+    "dev": "node frontend/node_modules/vite/bin/vite.js frontend",
+    "build": "node frontend/node_modules/vite/bin/vite.js build frontend",
+    "preview": "node frontend/node_modules/vite/bin/vite.js preview frontend"
+  }
+}
+
